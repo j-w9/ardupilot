@@ -25190,6 +25190,7 @@ return update, 1000
             self.SmartAudioVTX,
             self.SmartAudio21VTX,
             self.TrampVTX,
+            self.CRSFVTXUserBands,
             self.OSDParamConfig,
             self.EKFBootstrapReset,
             self.RTL_ALT_FINAL_M,
